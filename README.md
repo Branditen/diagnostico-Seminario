@@ -1,2 +1,2 @@
 # diagnostico-Seminario
-El tp diagnostico de la materia seminario
+Repositorio de trabajo de la materia Seminario de Actualización (ISFT151 - 2024)
